@@ -81,3 +81,52 @@ While distributing stateless services across multiple machines is fairly straigh
 _advice_: The architecture of systems that operate at large scale is usually highly specific to the application.
 
 # 1.3 Maintainability
+The cost of software is not in its initial development, but in its ongoing maintenance. We can and should design software in such a wat that it will hopefully minimize pain during maintenance. We can follow three design principle to achive this:
+- Operability: Make it easy to keep the system running
+- Simplicity: Make it easy for new engineers to understand the system
+- Evolvability: Make it easy for engineers to make changes to the system in the future.
+As always, there are no easy solutions for acheiving these goals
+
+## Operability: Making life easy for operations
+An operation team typically is responsible for:
+- Monitoring the health of the system
+- Tracing down the cause of problems
+- Keeping software and platforms up to date
+- Keeping tabs on how different systems affect each other
+- Anticipating future problems
+- Establishing good practices and tools for deployment
+- Performing complex maintenance tasks
+- Maintaining the security of the system
+- Defining process that make operations predictable
+
+Good operability means making routine tasks easy. Data systems can do various thing to make routine tasks easy.
+- Providing visibility into the runtime behavior.
+- Providing food support for automation and integration
+- Avoiding dependency on individual machines
+- Providing good documentation
+- Providing good default behavior
+- Self-healing where appropriate
+
+## Simplicity: Managing complexity
+Software projects often become very complex and difficult to understand (big ball of mud). There are various symptoms of the complexity: Explosion of the state space, tight coupling of modules, tangled dependencies, inconsistent naming and terminology, hacks aimed to solving performance problems, spacial-casing to work around issues elsewhere, etc.
+
+When complexity makes maintenance hard, there is a greater risk of introducing bugs when making a change. Reducing complexity greatly improves the maintainability of software, and thus simplicity should be a key goal for the systems we build.
+
+One of the best tools we have for removing accidental complexity is _abstraction_.  A good abstraction can also be used for a wide range of different applications. Not only is this reuse more efficient than reimplementing a similar thing multiple times, but it also leads to higher-quality software.
+
+## Evolvability: Making change easy
+It’s extremely unlikely that your system’s requirements will remain unchanged forever. The Agile community has also developed technical tools and patterns that are helpful when developing software in a frequently changing environment,  focus on a fairly small, local scale.
+
+The ease with which you can modify a data system, and adapt it to changing requirements, is closely linked to its simplicity and its abstractions.
+
+---
+
+# Summary
+
+An application has to meet various requirements in order to be useful. There are _functional requirements_ (what it should do, such as allowing data to be stored, retrieved, searched, and processed in various ways), and some _nonfunctional requirements_ (general properties like security, reliability, compliance, scalability, compatibility, and maintainability).
+
+_Reliability_ means making systems work correctly, even when faults occur. Faults can be in hardware (typically random and uncorrelated), software (bugs are typically systematic and hard to deal with), and humans (who inevitably make mistakes from time to time). Fault-tolerance techniques can hide certain types of faults from the end user.
+
+_Scalability_ means having strategies for keeping performance good, even when load increases. In order to discuss scalability, we first need ways of describing load and performance quantitatively.
+
+_Maintainability_ has many facets, but in essence it’s about making life better for the engineering and operations teams who need to work with the system. Good abstractions can help reduce complexity and make the system easier to modify and adapt for new use cases. Good operability means having good visibility into the system’s health, and having effective ways of managing it.

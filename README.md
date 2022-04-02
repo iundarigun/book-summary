@@ -10,4 +10,4 @@ Building for scale that you don’t need is wasted effort and may lock you into 
 
 --- 
 ## Foundations of Data Systems
-### [1. Reliable, Scalable, and Maintainable Applications](https://github.com/iundarigun/designing-data-intensive-applications/blob/master/fundationsOfDataSystems/chapter01.md) 
+1. [Reliable, Scalable, and Maintainable Applications](https://github.com/iundarigun/designing-data-intensive-applications/blob/master/fundationsOfDataSystems/chapter01.md) 
