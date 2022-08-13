@@ -10,7 +10,7 @@ Building for scale that you don’t need is wasted effort and may lock you into 
 
 --- 
 ## Foundations of Data Systems
-1. [Reliable, Scalable, and Maintainable Applications](https://github.com/iundarigun/designing-data-intensive-applications/blob/master/fundationsOfDataSystems/chapter01.md) 
-2. [Data models and Query languages](https://github.com/iundarigun/designing-data-intensive-applications/blob/master/fundationsOfDataSystems/chapter02.md) 
-3. [Storage and retrieval](https://github.com/iundarigun/designing-data-intensive-applications/blob/master/fundationsOfDataSystems/chapter03.md)
-4. [Encoding and evolution](https://github.com/iundarigun/designing-data-intensive-applications/blob/master/fundationsOfDataSystems/chapter04.md)
+1. [Reliable, Scalable, and Maintainable Applications](fundationsOfDataSystems/chapter01.md) 
+2. [Data models and Query languages](fundationsOfDataSystems/chapter02.md) 
+3. [Storage and retrieval](fundationsOfDataSystems/chapter03.md)
+4. [Encoding and evolution](fundationsOfDataSystems/chapter04.md)
