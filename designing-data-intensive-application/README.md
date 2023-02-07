@@ -14,3 +14,8 @@ Building for scale that you don’t need is wasted effort and may lock you into 
 2. [Data models and Query languages](fundationsOfDataSystems/chapter02.md) 
 3. [Storage and retrieval](fundationsOfDataSystems/chapter03.md)
 4. [Encoding and evolution](fundationsOfDataSystems/chapter04.md)
+
+## Distributed Data
+[Introduction](distributedData/intro.md)
+
+5. [Replication](distributedData/chapter5.md)
