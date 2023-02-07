@@ -13,9 +13,7 @@ The four common archetypes of Staff-plus roles are:
 - The **Solver** digs deep into arbitrarily complex problems and finds an appropriate path forward. Some focus on a given area for long periods. Others bounce from hotspot to hotspot as guided by organizational leadership.
 - The **Right Hand** extends an executive's attention, borrowing their scope and authority to operate particularly complex organizations.
 
-```
-You'll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role. It's the intersection of the role, your behaviors, your impact, and the organization's recognition of all those things.
-```
+    `You'll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role. It's the intersection of the role, your behaviors, your impact, and the organization's recognition of all those things.`
 
 ### Tech lead
 
