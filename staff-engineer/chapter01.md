@@ -35,7 +35,7 @@ The Architect title has fallen out of style in many companies, but the Architect
 - Mantain an intimate understanding of the business' needs, their users' goals, and the relevant technical constraints.
 - Some companies push for Architects to remain deep in the codebase, others set a clear expectation that Architects must not write code: both models work for some companies.
 
-        There is a toxic preconception that Architects design systems in isolation and then pass their designs to others to implement, and unfortunately that does happen in some cases.
+    `There is a toxic preconception that Architects design systems in isolation and then pass their designs to others to implement, and unfortunately that does happen in some cases.`
 
 ### Solver
 
@@ -119,11 +119,11 @@ The three consistent advantages that generally come with a Staff-plus title are:
 
 Many technology companies describe themselves as pursuing meritocracy.  While these gauges are believed to evaluate ideas objectively, their sheer informality becomes a broad vector of bias and often conflate confidence with competence.
 
-A Staff-plus title allows you to reinvest the energy you’ve previously spent on proving yourself
+A Staff-plus title allows you to reinvest the energy you've previously spent on proving yourself
 
 ### Being in the room
 
-In more senior roles, you’re often in the right place to provide input when it’s relatively cheap to incorporate, where otherwise your feedback might not be incorporated.
+In more senior roles, you're often in the right place to provide input when it's relatively cheap to incorporate, where otherwise your feedback might not be incorporated.
 
 ### Compensation
 
@@ -131,10 +131,10 @@ Most companies introduce compensation bands for each role by the time they reach
 
 ### Access to interesting work
 
-The believe id the role will give them access to the most visible or exciting work. That’s true to some extent, but it depends on the Staff archetypes.
+The believe id the role will give them access to the most visible or exciting work. That's true to some extent, but it depends on the Staff archetypes.
 
 The most consistently effective way to get access to interesting work is being hired to do it
 
 ### Different rather than better
-Even if you love the privileges and perks of a Staff-plus title, it’s important to recognize that they come on the back of a very different job. Many folks find that their Staff role’s heightened expectations eliminate the work that used to excite them.
+Even if you love the privileges and perks of a Staff-plus title, it's important to recognize that they come on the back of a very different job. Many folks find that their Staff role's heightened expectations eliminate the work that used to excite them.
 
