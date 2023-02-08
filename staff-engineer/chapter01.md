@@ -4,6 +4,8 @@ Companies have a two-track software engineering career path. Engineering managem
 
 It uses the term Staff-plus as an overarching label for Staff, Principal, and Distinguished titles, but many companies only have a subset of these titles.
 
+> Most career ladders define a single, uniform set of expectations for Staff engineers operating within the company. Everyone benefits from clear role expectations, but career ladders are a tool that applies better against populations than people.
+
 ## Staff engineers archetypes
 
 The four common archetypes of Staff-plus roles are:
@@ -13,7 +15,7 @@ The four common archetypes of Staff-plus roles are:
 - The **Solver** digs deep into arbitrarily complex problems and finds an appropriate path forward. Some focus on a given area for long periods. Others bounce from hotspot to hotspot as guided by organizational leadership.
 - The **Right Hand** extends an executive's attention, borrowing their scope and authority to operate particularly complex organizations.
 
-    `You'll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role. It's the intersection of the role, your behaviors, your impact, and the organization's recognition of all those things.`
+> You'll find non-Staff engineers acting with the behaviors of every archetype. Being a Staff-engineer is not just a role. It's the intersection of the role, your behaviors, your impact, and the organization's recognition of all those things.
 
 ### Tech lead
 
@@ -35,7 +37,7 @@ The Architect title has fallen out of style in many companies, but the Architect
 - Mantain an intimate understanding of the business' needs, their users' goals, and the relevant technical constraints.
 - Some companies push for Architects to remain deep in the codebase, others set a clear expectation that Architects must not write code: both models work for some companies.
 
-    `There is a toxic preconception that Architects design systems in isolation and then pass their designs to others to implement, and unfortunately that does happen in some cases.`
+> There is a toxic preconception that Architects design systems in isolation and then pass their designs to others to implement, and unfortunately that does happen in some cases.
 
 ### Solver
 
