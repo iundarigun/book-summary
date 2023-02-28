@@ -62,3 +62,23 @@ It’s useful to spend some time to write out those answers yourself, but gettin
 6. Edit the promotion packet with peers. Share your promotion packet with several trusted peers to get feedback, preferably peers already in a Staff-plus role.
 7. Edit the promotion packet with your manager. Share your promotion packet with your manager and request feedback. Ask for a particular focus on enumerating gaps to address.
 8. Periodically review the promotion packet with your manager. Both you and your manager should use it to steer you towards demonstrating the promotion criteria over time. This is particularly important to do if your direct manager changes
+
+It will consolidate your energy on the development and work that’ll move you towards your goal.
+
+### Find your sponsor
+
+> A Staff engineer isn't just a faster Senior engineer
+
+Some folks are often frustrated by the distance between their impact and their recognized impact and ask their managers and peers for feedback on closing that gap.
+
+Sometimes, performance evaluation seems falsely as a solo activity, but promotions are a team activity.
+
+- The first step of activating your sponsors is explicitly sharing your goals: __“I’m looking to be recognized as a Staff engineer”__
+- The next one can be asking your sponsor how you can support their sponsorship. Owning your career isn’t only about asking for things. It __is__ about that, but it’s much more about facilitating those things happening.
+- Reviewing your promotion packet collaboratively with your sponsors
+- Activating your sponsor isn’t a transactional thing to do once before your promotion. They always need folks to join a working group, volunteer and put in the work
+
+### What if it doesn’t work?
+
+Your manager has too direct an influence on your impact and your perceived impact. 
+You’ll cheat yourself if you immediately try to switch teams or companies after running into friction with your manager. Companies generally don’t allow transfers unless your manager approves it, and  you’ll lose the opportunity to develop your skill of working with folks you don’t immediately click with: it’s not a fun skill to develop, but leadership always involves influencing and building relationships with those with conflicting goals and styles.
