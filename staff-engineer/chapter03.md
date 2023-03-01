@@ -81,4 +81,80 @@ Sometimes, performance evaluation seems falsely as a solo activity, but promotio
 ### What if it doesn’t work?
 
 Your manager has too direct an influence on your impact and your perceived impact. 
-You’ll cheat yourself if you immediately try to switch teams or companies after running into friction with your manager. Companies generally don’t allow transfers unless your manager approves it, and  you’ll lose the opportunity to develop your skill of working with folks you don’t immediately click with: it’s not a fun skill to develop, but leadership always involves influencing and building relationships with those with conflicting goals and styles.
+You’ll cheat yourself if you immediately try to switch teams or companies after running into friction with your manager. Companies generally don’t allow transfers unless your manager approves it, and  you’ll lose the opportunity to develop your skill of working with folks you don’t immediately click with 
+
+> it’s not a fun skill to develop, but leadership __always__ involves influencing and building relationships with those with conflicting goals and styles.
+
+Nevertheless, if you’ve spent six months proactively trying to make the relationship work, then it probably is time to explore moving teams. This is one of many cases where it’s extremely helpful to have developed your relationship with your skip-level manager, who can help you find a new team.
+
+## Staff projects
+
+There isn’t an explicit expectation, but it is understood that you’ll complete a Staff Project to get promoted.
+
+`Staff project` is a project that is considered complex and important enough that the person who completes it has proven themselves as a Staff engineer. It’s important to pierce the mythology of these projects
+
+Even, most engineers don’t complete one as part of reaching a Staff role. We can explore three angles:
+1. Folks who didn’t complete Staff projects
+2. Folks who did complete Staff projects, including where they don’t end up working as planned
+3. Identifying and approaching your Staff project
+
+As mentioned, it’s true that many companies require, or informally enforce, Staff projects for internal promotions, and consequently, many folks do take on a Staff project as part of their role transition.
+
+### Why you should do a Staff project
+
+Although you can attain a Staff-plus role without completing a Staff project, they’re a particularly valuable opportunity to develop yourself as an engineer.
+
+There are a few typical characteristics that capture why they’re so effective at stretching you as an engineer:
+- **Complex and ambiguous** - early in your career, you’re given well-defined problems. Staff projects will generally start with a poorly scoped but complex and important problem. You’ll have to identify a concrete approach that works.
+- **Numerous and divided stakeholders** - the easiest projects start with organizational alignment around both the problem and the solution, but your Staff project might likely start with neither.
+- **Named bet where failure matters** - Project important enough for folks will be watching your work closely, and any failures will be very visible. Success will be highly visible, as well!
+
+> These can be pretty nerve-wracking, which is also why they’re so effective at developing you.
+
+### Getting access to Staff projects
+You still need to get access to these projects, which depends on your management chain trusting you enough. Three factors:
+1. Learn to stay aligned with your leadership team
+2. You need to be known to have the technical aptitude for the problem at hand
+3. Your company having a pressing need to solve a Staff-level problem.
+
+### Should you pursue a Staff project?
+If you’re looking to get promoted within your current company and haven’t previously held a Staff or management title before, then you’ll likely need to pursue a Staff project to establish yourself at that level.
+
+> Keep in mind that they are also  some of the most challenging work you can find and are the sort of work that will stretch and develop you into a better engineer.
+
+## Get in the room, and stay there
+Staff-plus engineers frequently cite access to “the room” as a major benefit of their level. However, it’s important to remember there’s no single “room” to enter: It might be a sprint pre-planning meeting with your tech lead and product manager. Later it might be a quarterly planning meeting, an architecture review, the performance calibration, the engineering leadership team. 
+
+There will always be another room to enter: you have to become effective at not only entering but also staying in these rooms of power.
+
+### Getting in the room
+
+To get into the room, you need:
+- **To bring something useful to the room...** This could be details on a critical project or  experience running a similar project or team at a previous company.
+- **...that the room doesn’t already have**. It’s not enough to have something useful to bring to the room. It also needs to be a perspective that isn’t already present within the room. To be included in those rooms, you’ll need to bring something distinct from the current membership.
+- **A sponsor in the roonm**: You’ll need someone to sponsor your membership. Your sponsor is allocating their social capital towards your inclusion
+- **Your sponsor needs to know you want to be there.** They won’t necessarily assume you want to be in any particular meeting
+
+Some of the approaches that work well to increase your value to the room:
+- **Stay aligned with your manager**. Folks evaluate leaders on how aligned their teams are with their announced approach. If you’re __particularly__ aligned, they’re more likely to yield their own seat to you and stop attending.
+- **Optimize for the group**. Trust and confidence in your judgment.
+- **Speak clearly and concisely**. As you develop an economy of speech, you’ll be able to contribute more ideas with less time. If folks don’t understand your proposal, then it doesn’t matter how good it is.
+- **Be low friction**. Those sorts of discussions usually spend their time draining frustration rather than making forward progress. If you’re known as someone who can navigate difficult conversations effectively, you’re much more likely to be involved.
+- **Come prepared**. Take the time to organize your thoughts before each meeting. Equally important is following up on what you committed to.
+- **Focus and be present**. Be sure to show up the engage. Be attentive and engaged
+- **Volunteer for low-status tasks**
+
+### Staying in the room
+Getting into the room is your first hurdle, but the second hurdle is staying in the room: keep doing the things that got you into the room.
+Some things that can get you kicked out of the room:
+- **Misunderstanding the room’s purpose.** Take the time to understand how the room operates and integrate into it with respect for that intention.
+- **Being dogmatic**. If you’re dogmatic, you will create friction that slows down discussions and progress.
+- **Withholding consent**
+- **Sucking the oxygen out of the room.** There are brainstorm discussions where every idea is welcome, and there are moments when you’ve shifted into operating mode to unblock project execution, and you have to read the room on which is happening.
+- **Embarrassing your sponsor**. Remember that you got into a room because someone in the room advocated for your inclusion.
+- **Being flakey or not showing up regularly.** There are only so many slots, and the person running the meeting will prioritize them on people who show up.
+
+### Exiting the room
+There are infinite rooms to be in, there’s no room where the work actually happens. You’ll be most impactful if you’re selective on which rooms you stay in.
+
+## Being visible
