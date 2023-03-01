@@ -1,6 +1,6 @@
 # 3. Getting the title where you are
 
-> Reaching Staff is a combination of luck, timing, and work
+> Reaching Staff is a combination of luck, timing, and work, and  timing is a particular sort of luck
 
 Senior engineer is the career level at most companies. They have no expectation that you'll ever go from Senior to Staff. Furthermore, companies' promotion systens will often impede your further progress once you attain the career level.
 
@@ -158,3 +158,43 @@ Some things that can get you kicked out of the room:
 There are infinite rooms to be in, there’s no room where the work actually happens. You’ll be most impactful if you’re selective on which rooms you stay in.
 
 ## Being visible
+
+One of the most effective ways to get __luckier__ is to be more visible within your organization. Your goal is to be known for good things
+
+### Why visibility matters
+
+
+Staff-plus roles are leadership roles, the company is bringing you into its leadership team. But they can't believe in you if they don't know you
+
+> Less inclusive organizations inadvertently center access on folks who most aggressively self-advertise.
+
+### Internal visibility
+
+The single best way to create internal visibility is to work on the things that matter to your company and company leadership. 
+
+Some strategies are:
+- Write and distribute more long-lived documents
+- Lead company forums like architecture reviews, company all hands, and learning circles
+- Be a cheerleader for your team’s and peers’ work on Slack and email
+- Share weekly notes of your work to your team and stakeholders
+- Contribute to your company’s blog
+- Attend, or potentially even host, office hours for your team or org
+
+Find the right mix of activities that leverage your strengths
+
+### Executive visibility
+
+To be promoted to a leadership role, the most important kind of internal visibility is executive visibility. Using the promotion packet, you will create visibility with your manager, but it’s helpful to go further.
+
+These are the folks who tend to be in the room that approves promotions into Staff-plus roles, and they rarely support folks whose work they don’t know.
+
+### External visibility
+
+Many find external visibility contributes to their career. One advantage of building an external presence is that there’s a lot more room to create a niche and name for yourself. It could be giving a conference talk, going on a podcast, or turning a problem into a website and book
+
+### Should you focus on visibility?
+
+My advice would be to use the promotion packet exercise to identify if the lack of visibility is likely to hold you back in the promotion process.
+
+ Visibility is a transient currency. Learning and developing yourself is a permanent one.
+ 
